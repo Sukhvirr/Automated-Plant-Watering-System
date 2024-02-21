@@ -1,0 +1,3 @@
+- Created a automated plant watering system using Java and Arduino.
+- Used a moisture sensor to detect moisture level of plant.
+- Used a water pump and pipe to supply water to plant.
